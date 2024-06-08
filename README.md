@@ -1,0 +1,4 @@
+# Statistical-analysis-of-DDoS-attacks
+
+Distributed Denial-of-Service (DDoS) attacks pose a significant threat to the stability and security of Internet-of-Things (IoT) systems. This paper proposes a novel approach for DDoS attack detection by leveraging statistical techniques commonly used in financial analysis. The methodology involves resampling a captured network dataset based on a chosen time window. We then apply these techniques to the windowed data to identify anomalies that deviate from normal traffic patterns. This includes exploring the optimal window size for maximizing attack detection accuracy while maintaining computational efficiency. Our findings suggest that statistical analysis of packet arrival rates, informed by insights from financial analysis, offers a promising and efficient technique for DDoS attack detection in IoT systems.
+
